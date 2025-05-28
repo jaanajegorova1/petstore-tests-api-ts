@@ -1,3 +1,5 @@
+#GITHUB:petstore-tests-api-ts
+
 #Swagger Petstore API
 #URL=https://petstore.swagger.io
 
