@@ -1,9 +1,9 @@
 name: Petstore API Playwright Tests
 on:
   push:
-    branches: [master, main]
+    branches: [master]
   pull_request:
-    branches: [master, main]
+    branches: [master]
 jobs:
   test:
     timeout-minutes: 60
